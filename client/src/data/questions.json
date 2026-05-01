@@ -1,0 +1,639 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is Chick-fil-A's signature chicken sandwich made with?",
+      "type": "multiple_choice",
+      "weight": 1,
+      "options": [
+        "Fried chicken breast",
+        "Grilled chicken breast",
+        "Boneless chicken thigh",
+        "Chicken patty"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "On which day of the week is Chick-fil-A traditionally closed?",
+      "type": "text",
+      "weight": 2,
+      "correctAnswer": "sunday",
+      "caseSensitive": false
+    },
+    {
+      "id": 3,
+      "question": "What year was Chick-fil-A founded?",
+      "type": "multiple_choice",
+      "weight": 1,
+      "options": [
+        "1946",
+        "1952",
+        "1959",
+        "1965"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 4,
+      "question": "What is the name of Chick-fil-A's chicken nuggets?",
+      "type": "text",
+      "weight": 1,
+      "correctAnswer": "chicken nuggets",
+      "caseSensitive": false
+    },
+    {
+      "id": 5,
+      "question": "Which of these is NOT a standard Chick-fil-A sauce?",
+      "type": "multiple_choice",
+      "weight": 1,
+      "options": [
+        "Chick-fil-A Sauce",
+        "Honey Roasted BBQ Sauce",
+        "Sriracha Mayo",
+        "Polynesian Sauce"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "What is the proper greeting when a customer enters a Chick-fil-A restaurant?",
+      "type": "text",
+      "weight": 2,
+      "correctAnswer": "my pleasure",
+      "caseSensitive": false
+    },
+    {
+      "id": 7,
+      "question": "How many grams of protein are in a Chick-fil-A chicken sandwich?",
+      "type": "multiple_choice",
+      "weight": 1,
+      "options": [
+        "28g",
+        "32g",
+        "36g",
+        "40g"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 8,
+      "question": "What is the name of Chick-fil-A's founder?",
+      "type": "text",
+      "weight": 1,
+      "correctAnswer": "truett cathy",
+      "caseSensitive": false
+    },
+    {
+      "id": 9,
+      "question": "Which beverage is Chick-fil-A known for serving in their restaurants?",
+      "type": "multiple_choice",
+      "weight": 1,
+      "options": [
+        "Coca-Cola products",
+        "Pepsi products",
+        "Fanta products",
+        "Sprite products"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 10,
+      "question": "What is the standard response when a customer thanks you at Chick-fil-A?",
+      "type": "text",
+      "weight": 2,
+      "correctAnswer": "my pleasure",
+      "caseSensitive": false
+    },
+    {
+      "id": 11,
+      "question": "What temperature should chicken be cooked to for food safety?",
+      "type": "multiple_choice",
+      "weight": 2,
+      "options": [
+        "155°F",
+        "160°F",
+        "165°F",
+        "170°F"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 12,
+      "question": "What is the name of Chick-fil-A's waffle-cut fries?",
+      "type": "text",
+      "weight": 1,
+      "correctAnswer": "waffle fries",
+      "caseSensitive": false
+    },
+    {
+      "id": 13,
+      "question": "How many seconds should a customer be greeted within?",
+      "type": "multiple_choice",
+      "weight": 2,
+      "options": [
+        "15 seconds",
+        "30 seconds",
+        "45 seconds",
+        "60 seconds"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 14,
+      "question": "What is the primary focus of Chick-fil-A's core values?",
+      "type": "text",
+      "weight": 1,
+      "correctAnswer": "customer service",
+      "caseSensitive": false
+    },
+    {
+      "id": 15,
+      "question": "Which of these is a Chick-fil-A breakfast item?",
+      "type": "multiple_choice",
+      "weight": 1,
+      "options": [
+        "Breakfast Burrito",
+        "Chicken Biscuit",
+        "Breakfast Sandwich",
+        "Egg & Cheese Croissant"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 16,
+      "question": "What is the standard shift time for opening a Chick-fil-A?",
+      "type": "text",
+      "weight": 1,
+      "correctAnswer": "6 am",
+      "caseSensitive": false
+    },
+    {
+      "id": 17,
+      "question": "How should you handle a customer complaint?",
+      "type": "multiple_choice",
+      "weight": 2,
+      "options": [
+        "Dismiss it and move on",
+        "Listen, apologize, and find a solution",
+        "Argue with the customer",
+        "Refer them to corporate"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 18,
+      "question": "What is the name of Chick-fil-A's grilled chicken sandwich?",
+      "type": "text",
+      "weight": 1,
+      "correctAnswer": "grilled chicken sandwich",
+      "caseSensitive": false
+    },
+    {
+      "id": 19,
+      "question": "What percentage of Chick-fil-A restaurants are franchised?",
+      "type": "multiple_choice",
+      "weight": 1,
+      "options": [
+        "All are franchised",
+        "None are franchised",
+        "About 50%",
+        "About 75%"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 20,
+      "question": "What is the proper way to take an order at the drive-thru?",
+      "type": "text",
+      "weight": 2,
+      "correctAnswer": "greet and ask for order",
+      "caseSensitive": false
+    },
+    {
+      "id": 21,
+      "question": "What is the name of Chick-fil-A's spicy chicken sandwich?",
+      "type": "multiple_choice",
+      "weight": 1,
+      "options": [
+        "Spicy Chicken Sandwich",
+        "Hot Chicken Sandwich",
+        "Crispy Spicy Chicken",
+        "Chick-fil-A Spicy"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 22,
+      "question": "How many calories are in a Chick-fil-A chicken sandwich?",
+      "type": "multiple_choice",
+      "weight": 1,
+      "options": [
+        "280 calories",
+        "350 calories",
+        "420 calories",
+        "500 calories"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 23,
+      "question": "What is the name of Chick-fil-A's salad line?",
+      "type": "text",
+      "weight": 1,
+      "correctAnswer": "cobb salad",
+      "caseSensitive": false
+    },
+    {
+      "id": 24,
+      "question": "What should you do if you make a mistake on an order?",
+      "type": "multiple_choice",
+      "weight": 2,
+      "options": [
+        "Hide it and hope they don't notice",
+        "Immediately correct it and apologize",
+        "Charge them extra",
+        "Ignore it"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 25,
+      "question": "What is the standard closing time for most Chick-fil-A restaurants?",
+      "type": "text",
+      "weight": 1,
+      "correctAnswer": "10 pm",
+      "caseSensitive": false
+    },
+    {
+      "id": 26,
+      "question": "Which of these is NOT a Chick-fil-A dessert?",
+      "type": "multiple_choice",
+      "weight": 1,
+      "options": [
+        "Chocolate Chunk Cookie",
+        "Icedream",
+        "Brownie Sundae",
+        "Cheesecake"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 27,
+      "question": "What is the proper way to handle a rush period?",
+      "type": "text",
+      "weight": 2,
+      "correctAnswer": "work as a team",
+      "caseSensitive": false
+    },
+    {
+      "id": 28,
+      "question": "How many Chick-fil-A restaurants are there approximately?",
+      "type": "multiple_choice",
+      "weight": 1,
+      "options": [
+        "Around 1,000",
+        "Around 2,000",
+        "Around 3,000",
+        "Around 5,000"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 29,
+      "question": "What is the name of Chick-fil-A's chicken soup?",
+      "type": "text",
+      "weight": 1,
+      "correctAnswer": "chicken soup",
+      "caseSensitive": false
+    },
+    {
+      "id": 30,
+      "question": "What should be your priority when serving customers?",
+      "type": "multiple_choice",
+      "weight": 2,
+      "options": [
+        "Speed only",
+        "Accuracy only",
+        "Both speed and accuracy with a smile",
+        "Minimizing waste"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 31,
+      "question": "What is the name of Chick-fil-A's lemonade?",
+      "type": "text",
+      "weight": 1,
+      "correctAnswer": "lemonade",
+      "caseSensitive": false
+    },
+    {
+      "id": 32,
+      "question": "How should you greet a customer at the counter?",
+      "type": "multiple_choice",
+      "weight": 1,
+      "options": [
+        "With a nod",
+        "With a smile and eye contact",
+        "Just take their order",
+        "Ignore them until they speak"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 33,
+      "question": "What is the proper way to handle a customer's dietary restrictions?",
+      "type": "text",
+      "weight": 2,
+      "correctAnswer": "ask and provide options",
+      "caseSensitive": false
+    },
+    {
+      "id": 34,
+      "question": "Which of these is a Chick-fil-A side item?",
+      "type": "multiple_choice",
+      "weight": 1,
+      "options": [
+        "Mac and Cheese",
+        "Coleslaw",
+        "Mashed Potatoes",
+        "Corn on the Cob"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 35,
+      "question": "What is the name of Chick-fil-A's signature sauce?",
+      "type": "text",
+      "weight": 1,
+      "correctAnswer": "chick-fil-a sauce",
+      "caseSensitive": false
+    },
+    {
+      "id": 36,
+      "question": "How should you handle a customer who is upset?",
+      "type": "multiple_choice",
+      "weight": 2,
+      "options": [
+        "Tell them to calm down",
+        "Listen, empathize, and resolve the issue",
+        "Argue with them",
+        "Call a manager immediately"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 37,
+      "question": "What is the standard portion size for waffle fries?",
+      "type": "text",
+      "weight": 1,
+      "correctAnswer": "medium",
+      "caseSensitive": false
+    },
+    {
+      "id": 38,
+      "question": "Which of these is a Chick-fil-A beverage?",
+      "type": "multiple_choice",
+      "weight": 1,
+      "options": [
+        "Orange Juice",
+        "Apple Juice",
+        "Iced Tea",
+        "All of the above"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 39,
+      "question": "What is the proper way to maintain food safety?",
+      "type": "text",
+      "weight": 2,
+      "correctAnswer": "follow procedures",
+      "caseSensitive": false
+    },
+    {
+      "id": 40,
+      "question": "How many pieces are in a Chick-fil-A chicken nuggets meal?",
+      "type": "multiple_choice",
+      "weight": 1,
+      "options": [
+        "6 pieces",
+        "8 pieces",
+        "10 pieces",
+        "12 pieces"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 41,
+      "question": "What is the name of Chick-fil-A's chicken strip entree?",
+      "type": "text",
+      "weight": 1,
+      "correctAnswer": "chicken strips",
+      "caseSensitive": false
+    },
+    {
+      "id": 42,
+      "question": "What should you do if you notice a food quality issue?",
+      "type": "multiple_choice",
+      "weight": 2,
+      "options": [
+        "Ignore it",
+        "Report it to a manager immediately",
+        "Serve it anyway",
+        "Throw it away silently"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 43,
+      "question": "What is the proper way to take payment?",
+      "type": "text",
+      "weight": 1,
+      "correctAnswer": "ask for payment method",
+      "caseSensitive": false
+    },
+    {
+      "id": 44,
+      "question": "Which of these is a Chick-fil-A breakfast side?",
+      "type": "multiple_choice",
+      "weight": 1,
+      "options": [
+        "Hash Browns",
+        "Bacon",
+        "Sausage Patty",
+        "Fruit Cup"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 45,
+      "question": "What is the name of Chick-fil-A's grilled chicken club?",
+      "type": "text",
+      "weight": 1,
+      "correctAnswer": "grilled chicken club",
+      "caseSensitive": false
+    },
+    {
+      "id": 46,
+      "question": "How should you handle a long line of customers?",
+      "type": "multiple_choice",
+      "weight": 2,
+      "options": [
+        "Work slowly and carefully",
+        "Rush and make mistakes",
+        "Work efficiently while maintaining quality",
+        "Take a break"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 47,
+      "question": "What is the proper way to communicate with team members?",
+      "type": "text",
+      "weight": 1,
+      "correctAnswer": "clearly and respectfully",
+      "caseSensitive": false
+    },
+    {
+      "id": 48,
+      "question": "Which of these is a Chick-fil-A sauce option?",
+      "type": "multiple_choice",
+      "weight": 1,
+      "options": [
+        "Buffalo Sauce",
+        "Ranch Sauce",
+        "Honey Mustard",
+        "Garlic Aioli"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 49,
+      "question": "What is the standard way to greet a drive-thru customer?",
+      "type": "text",
+      "weight": 1,
+      "correctAnswer": "welcome to chick-fil-a",
+      "caseSensitive": false
+    },
+    {
+      "id": 50,
+      "question": "How should you end a customer interaction?",
+      "type": "multiple_choice",
+      "weight": 1,
+      "options": [
+        "Just hand them their order",
+        "Thank them and say 'My Pleasure'",
+        "Ignore them",
+        "Rush them out"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 51,
+      "question": "What is the name of Chick-fil-A's chicken deluxe sandwich?",
+      "type": "text",
+      "weight": 1,
+      "correctAnswer": "chicken deluxe",
+      "caseSensitive": false
+    },
+    {
+      "id": 52,
+      "question": "What is the proper temperature for serving ice cream?",
+      "type": "multiple_choice",
+      "weight": 1,
+      "options": [
+        "0°F",
+        "10°F",
+        "20°F",
+        "30°F"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 53,
+      "question": "What is the name of Chick-fil-A's mac and cheese side?",
+      "type": "text",
+      "weight": 1,
+      "correctAnswer": "mac and cheese",
+      "caseSensitive": false
+    },
+    {
+      "id": 54,
+      "question": "How should you handle a customer's special request?",
+      "type": "multiple_choice",
+      "weight": 2,
+      "options": [
+        "Refuse it",
+        "Try to accommodate it if possible",
+        "Charge extra",
+        "Ignore it"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 55,
+      "question": "What is the proper way to maintain cleanliness in the restaurant?",
+      "type": "text",
+      "weight": 2,
+      "correctAnswer": "clean regularly",
+      "caseSensitive": false
+    },
+    {
+      "id": 56,
+      "question": "Which of these is a Chick-fil-A drink size?",
+      "type": "multiple_choice",
+      "weight": 1,
+      "options": [
+        "Small, Medium, Large, Extra Large",
+        "Small, Medium, Large",
+        "Tall, Grande, Venti",
+        "Single, Double, Triple"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 57,
+      "question": "What is the name of Chick-fil-A's chicken sandwich with bacon?",
+      "type": "text",
+      "weight": 1,
+      "correctAnswer": "chicken bacon sandwich",
+      "caseSensitive": false
+    },
+    {
+      "id": 58,
+      "question": "What should be your attitude when helping a customer?",
+      "type": "multiple_choice",
+      "weight": 2,
+      "options": [
+        "Indifferent",
+        "Frustrated",
+        "Positive and helpful",
+        "Annoyed"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 59,
+      "question": "What is the proper way to handle cash at the register?",
+      "type": "text",
+      "weight": 1,
+      "correctAnswer": "count carefully",
+      "caseSensitive": false
+    },
+    {
+      "id": 60,
+      "question": "Which of these is a Chick-fil-A salad option?",
+      "type": "multiple_choice",
+      "weight": 1,
+      "options": [
+        "Caesar Salad",
+        "Market Salad",
+        "Greek Salad",
+        "Garden Salad"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}
