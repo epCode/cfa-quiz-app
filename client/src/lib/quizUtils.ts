@@ -51,6 +51,9 @@ const RANK_CONFIG = [
 export function getRandomQuestions(count: number): Question[] {
   const allQuestions = questionsData.questions as Question[];
   const shuffled = [...allQuestions].sort(() => Math.random() - 0.5);
+  if (count === Infinity) {
+    return shuffled; // Return all questions
+  }
   return shuffled.slice(0, Math.min(count, allQuestions.length));
 }
 

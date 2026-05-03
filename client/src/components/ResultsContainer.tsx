@@ -7,6 +7,7 @@ import { ChevronDown, ChevronUp, Check, X } from "lucide-react";
 interface ResultsContainerProps {
   scoreResult: ScoreResult;
   onRetake: () => void;
+  onLeaderboard: () => void;
 }
 
 /**
@@ -18,7 +19,7 @@ interface ResultsContainerProps {
  * - Rank progression visualization
  */
 
-export function ResultsContainer({ scoreResult, onRetake }: ResultsContainerProps) {
+export function ResultsContainer({ scoreResult, onRetake, onLeaderboard }: ResultsContainerProps) {
   const [expandedAnswers, setExpandedAnswers] = useState<Set<number>>(new Set());
 
   const toggleAnswerExpand = (questionId: number) => {
@@ -193,12 +194,19 @@ export function ResultsContainer({ scoreResult, onRetake }: ResultsContainerProp
           </Card>
 
           {/* Action Buttons */}
-          <div className="flex gap-4 justify-center mb-8">
+          <div className="flex gap-4 justify-center flex-wrap">
             <Button
               onClick={onRetake}
-              className="bg-[#d62300] hover:bg-[#c41e00] text-white px-8 py-3 font-bold text-lg"
+              className="bg-[#d62300] hover:bg-[#c41e00] text-white px-8 py-2 font-bold"
             >
               Retake Quiz
+            </Button>
+            <Button
+              onClick={onLeaderboard}
+              variant="outline"
+              className="px-8 py-2 font-bold border-2 border-[#d62300] text-[#d62300] hover:bg-[#d62300] hover:text-white"
+            >
+              View Leaderboard
             </Button>
           </div>
         </div>
